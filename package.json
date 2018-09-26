@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/larryschirmer/TrailHeads.git"
+    "url": "git+https://github.com/brandonjamesellis/TrailHeads.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/larryschirmer/TrailHeads/issues"
+    "url": "https://github.com/brandonjamesellis/TrailHeads/issues"
   },
-  "homepage": "https://github.com/larryschirmer/TrailHeads#readme",
+  "homepage": "https://github.com/brandonjamesellis/TrailHeads#readme",
   "dependencies": {
     "mongoose": "^5.2.17"
   }
